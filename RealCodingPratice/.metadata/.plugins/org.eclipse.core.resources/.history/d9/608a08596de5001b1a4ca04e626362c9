@@ -1,0 +1,14 @@
+package SchoolProgramming.RealCodingPratice.maven;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class ApiGateway2ApplicationTests {
+
+	@Test
+	void contextLoads() {
+		System.out.println("테스트가 성공적으로");
+	}
+
+}

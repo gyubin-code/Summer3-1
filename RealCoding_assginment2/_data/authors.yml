@@ -1,0 +1,55 @@
+이규빈:
+  name        : "이규빈"
+  bio         : "안녕하세요 이규빈입니다."
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/gyubin-code"
+    - label: "소개"
+      icon: "fas fa-user"
+      url: /2021RealCoding_group2_assign1/hello/
+
+박우현:
+  name        : "박우현"
+  bio         : "안녕하세요 박우현입니다."
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:warp26@ajou.ac.kr"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/warpdev"
+    - label: "소개"
+      icon: "fas fa-user"
+      url: /2021RealCoding_group2_assign1/hello3/
+
+박현호:
+  name        : "박현호"
+  bio         : ""
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/LuBly"
+    - label: "소개"
+      icon: "fas fa-user"
+      url: /2021RealCoding_group2_assign1/hello2/
+
+심규원:
+  name        : "심규원"
+  bio         : ""
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/skwony"
+    - label: "소개"
+      icon: "fas fa-user"
+      url: /2021RealCoding_group2_assign1/hello4/

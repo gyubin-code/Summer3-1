@@ -1,0 +1,104 @@
+# default: 공통Common 적용
+info:
+  app:
+    encoding: \${file.encoding}
+    java.source: \${java.version}
+    java.target: \${java.version}
+logging:
+  level:
+    io.honeymon.boot.springboot: DEBUG
+    org.springframework.web: TRACE
+server:
+  port: 9000
+# ExampleProperties
+example:
+  remote-address: 192.168.1.1
+  security:
+    username: admin
+    roles:
+      - USER
+      - ADMIN
+spring:
+  thymeleaf:
+    cache: false
+management:
+  endpoints:
+    web:
+      exposure:
+        include: "*"
+  endpoint:
+    beans:
+      cache:
+        time-to-live: 10s
+    shutdown:
+      enabled: true
+    health:
+      show-details: never
+    httptrace:
+      enabled: true
+honeymon.api:
+  root-uri: http://honeymon.io/api
+  header-authorization: Berear 2019-11-01
+  read-timeout: 5s
+  connect-timeout: 10s
+  client-mode: rest
+
+---
+spring:
+  profiles: local
+  datasource:
+    url: jdbc:h2:~/.boot-spring-boot;DB_CLOSE_ON_EXIT=FALSE
+    username: sa
+    password:
+  jpa:
+    hibernate:
+      ddl-auto: update
+honeymon.api:
+  client-mode: stub
+
+---
+# test profile 사용시 적용
+spring:
+  profiles: test
+  datasource:
+    url: jdbc:h2:mem:test;DB_CLOSE_ON_EXIT=FALSE
+    username: sa
+    password:
+  jpa:
+    hibernate:
+      ddl-auto: create-drop 
+server:
+  port: ${random.int[8000,9000]}
+
+---
+# 개발서버 적용
+spring:
+  profiles: dev
+  datasource:
+    url: jdbc:mariadb://<<url>>:3306/dev
+    username: honeymon
+    password: devhoneymon
+  jpa:
+    hibernate:
+      ddl-auto: validate
+server:
+  port: 9000
+honeymon.api:
+  client-mode: stub
+
+---
+# 운영서버 적용
+spring:
+  profiles: prd
+  datasource:
+    url: jdbc:mariadb://<<url>>:3306/prd
+    username: honeymon
+    password: prdhoneymon
+  jpa:
+    hibernate:
+      ddl-auto: validate
+server:
+  port: 5000  # AWS Elastic Beanstalk 에서는 포트번호로 5000번을 사용해야한다.
+logging:
+  level:
+    io.honeymon.boot.springboot: INFO

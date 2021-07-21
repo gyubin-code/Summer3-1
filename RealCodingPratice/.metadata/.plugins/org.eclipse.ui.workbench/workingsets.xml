@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workingSetManager>
+<workingSet editPageId="org.eclipse.jdt.internal.ui.DynamicSourcesWorkingSet" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1626247039425_0" label="Java Main Sources" name="Java Main Sources"/>
+<workingSet editPageId="org.eclipse.jdt.internal.ui.DynamicSourcesWorkingSet" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1626247039464_1" label="Java Test Sources" name="Java Test Sources"/>
+<workingSet editPageId="org.eclipse.jdt.ui.JavaWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1626250311404_3" label="boot-spring-boot" name="boot-spring-boot">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/spring-boot-app-final" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/spring-boot-app-start" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/spring-boot-actuator-custom-status-mapper" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/course-tracker-final" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/course-tracker-start" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/appendix01_spring-boot-app-demo" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/implementing-https_course-tracker-final" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/implementing-https_course-tracker-start" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/course-tracker-custom-failure-analyzer-final" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/course-tracker-custom-failure-analyzer-start" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/course-tracker-api-start" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/custom-healthindicator-final" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/custom-healthindicator-start" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/spring-boot-logging-with-log4j2_spring-boot-app-final" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/spring-boot-logging-with-log4j2_spring-boot-app-start" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/repo" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/Spring-boot" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/user-registration_course-tracker-start" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/spring-boot-app-demo" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/user-registration_course-tracker-final" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/course-tracker-api-jwt" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/course-tracker-building-webapp_course-tracker-final" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/course-tracker-building-webapp_course-tracker-start" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/command-line-runner_spring-boot-app-start" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/command-line-runner_spring-boot-app-final" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/spring-boot-actuator-info-endpoint" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/Implementing-inmemory-authentication_course-tracker-final" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/Implementing-inmemory-authentication_course-tracker-start" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/exception-handling_course-tracker-api" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/using-query-annotation_course-tracker-final" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/spring-boot-default-logging_spring-boot-app-start" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/google-recaptcha_course-tracker-start" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/ldap-authentication_course-tracker-start" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/login-attempt_course-tracker-start" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/login-with-google_course-tracker-final" type="4"/>
+<item elementID="=boot-spring-boot" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/spring-boot-actuator-custom-metrics-start" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/spring-boot-actuator-security_course-tracker-final" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/http-basic-authentication_course-tracker-final" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/initialize-relational-database-with-schema_course-tracker-start" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/two-factor-auth_course-tracker-final" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/jdbc-custom-table-authentication_course-tracker-final" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/implementing-custom-loginpage_course-tracker-final" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/named-query-method_course-tracker-final" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/custom-query-methods_course-tracker-start" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/using-query-dsl_course-tracker-start" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/manage-domain-objects-with-jpa_course-tracker-start" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/email-verification_course-tracker-start" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/spring-boot-app-sts" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/jdbc-custom-table-authentication-userdetailsservice_course-tracker-start" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/property-sources" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/spring-boot-app-demo-final" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/using-criteria-api_course-tracker-final" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/using-criteria-api_course-tracker-start" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/developing-an-api_course-tracker-api" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/introducing-spring-security_course-tracker-final" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/introducing-spring-security_course-tracker-start" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/spring-boot-actuator-metrics" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/versioning-an-api_course-tracker-api" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/course-tracker-custom-endpoint-final" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/course-tracker-custom-endpoint-start" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/managing-many-to-many-relationship_course-tracker-final" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/managing-many-to-many-relationship_course-tracker-start" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/using-paging-and-sorting-repository_course-tracker-final" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/documenting-with-restdocs_course-tracker-api" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/using-paging-and-sorting-repository_course-tracker-start" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/jdbc-default-authentication_course-tracker-final" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/jdbc-default-authentication_course-tracker-start" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/implementing-vault_course-tracker-final" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/implementing-vault_course-tracker-start" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/spring-application" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/documenting-with-openapi_course-tracker-api" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/configuring-relational-database_course-tracker-final" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/configuring-relational-database_course-tracker-start" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/understanding-roles_course-tracker-final" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/creating-custom-spring-data-repository_course-tracker-final" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/creating-custom-spring-data-repository_course-tracker-start" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/bean-validation-custom-annotation_spring-boot-app-final" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/bean-validation-custom-annotation_spring-boot-app-start" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/configuring-mongodb-database_course-tracker-final" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/configuring-mongodb-database_course-tracker-start" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/using-query-annotation_course-tracker-start" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/spring-boot-default-logging_spring-boot-app-final" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/google-recaptcha_course-tracker-final" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/ldap-authentication_course-tracker-final" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/login-attempt_course-tracker-final" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/spring-boot-app-idea" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/login-with-google_course-tracker-start" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/spring-boot-actuator-custom-metrics-final" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/spring-boot-actuator-security_course-tracker-start" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/http-basic-authentication_course-tracker-start" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/initialize-relational-database-with-schema_course-tracker-final" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/course-tracker-api-basic" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/config-data-file" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/spring-boot-app-vscode" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/two-factor-auth_course-tracker-start" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/jdbc-custom-table-authentication_course-tracker-start" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/implementing-custom-loginpage_course-tracker-start" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/named-query-method_course-tracker-start" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/custom-query-methods_course-tracker-final" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/using-query-dsl_course-tracker-final" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/configuration-properties" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/course-tracker-api" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/manage-domain-objects-with-jpa_course-tracker-final" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/email-verification_course-tracker-final" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/jdbc-custom-table-authentication-userdetailsservice_course-tracker-final" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/spring-boot-app-demo-start" type="4"/>
+</workingSet>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1626247049016_2" label="Window Working Set" name="Aggregate for window 1626247049015"/>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1626337694038_6" label="Multiple Working Sets" name="Aggregate:boot-spring-boot:Java Main Sources:Java Test Sources:">
+<workingSet IMemento.internal.id="boot-spring-boot"/>
+<workingSet IMemento.internal.id="Java Main Sources"/>
+<workingSet IMemento.internal.id="Java Test Sources"/>
+</workingSet>
+<mruList name="boot-spring-boot"/>
+</workingSetManager>

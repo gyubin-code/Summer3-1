@@ -1,0 +1,38 @@
+# main links
+main:
+  - title: "이규빈 소개"
+    url: /hello/
+  #  url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+  
+  - title: "박현호 소개"
+    url: /hello2/
+  #  url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+
+  - title: "박우현 소개"
+    url: /hello3/
+  #  url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+  -
+  - title: "심규원 소개"
+    url: /hello4/
+  #  url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+
+  # - title: "About"
+  #   url: https://mmistakes.github.io/minimal-mistakes/about/
+  # - title: "Sample Posts"
+  #   url: /year-archive/
+  # - title: "Sample Collections"
+  #   url: /collection-archive/
+  # - title: "Sitemap"
+  #   url: /sitemap/
+
+post:
+  - title: "스위프트"
+    url: /categories/스위프트
+  - title: "여기에 제목이랑"
+    url: /categories/여기에다가카테고리적기 #page에 만든 카테고리 보여주기 페이지의 permalink와 같게맞추기
+
+post:
+  - title: "Git 명령어 정리"
+    url: /categories/git
+   
+ 
